@@ -14,26 +14,33 @@ Meu Aplicativo é uma referencia ao WhatsApp , portanto se trata de um aplicativ
 ![Screenshot_1](https://github.com/gustavoKutzke/FlutterProject/assets/102746869/7cbf9c1c-98bc-4c83-af7c-e57073447b52)
 ![Screenshot_4](https://github.com/gustavoKutzke/FlutterProject/assets/102746869/4060423f-9c87-4dc8-bffb-2b006d3a6cfe)
 
+
 ●Tela Login
+
   -Autenticação de Usuário , pelo seu email e senha
 
 ●Tela Cadastro
+
   - Usuario Cadastra Sua conta , por meio do Seu Nome , Email e Senha
   - Os dadaos São Salvos pelo firebase nessa ação
   
 ●Tela Conversas
+
   - Os contatos frequentes são listados
   - Ultimas mensagens serão exibidas aqui
 
 ●Tela Contatos
+
   - Todos os Seus Contatos serão exibidos nesta tela
    
 ●Tela Configuração
+
   - Usuário pode mudar seu nome
   - Usuário pode Colocar uma foto de Perfil
   - -Botão que salva  e atualiza o Firebase
 
 ●Tela Mensagem
+
   - Exibição das Mensagens
   - Podendo Enviar Texto ou uma Foto
    
