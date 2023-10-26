@@ -27,7 +27,7 @@ Meu Aplicativo é uma referencia ao WhatsApp , portanto se trata de um aplicativ
 
 ●Tela Contatos
   - Todos os Seus Contatos serão exibidos nesta tela
-  - 
+   
 ●Tela Configuração
   - Usuário pode mudar seu nome
   - Usuário pode Colocar uma foto de Perfil
@@ -36,5 +36,5 @@ Meu Aplicativo é uma referencia ao WhatsApp , portanto se trata de um aplicativ
 ●Tela Mensagem
   - Exibição das Mensagens
   - Podendo Enviar Texto ou uma Foto
-  - 
+   
     
